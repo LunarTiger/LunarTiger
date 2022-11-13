@@ -38,6 +38,6 @@
 </table>
 
 ## 📫 How to reach me
-- [🦣](https://mas.to/@lunar "Mastodon") <a href="https://mas.to/@lunar" target="_blank" title="Mastodon" rel="me">&#64;lunar&#64;mas.to</a>
+- [🦣](https://mas.to/@lunar "Mastodon") <a href="https://mas.to/@lunar" target="_blank" title="Mastodon" rel="me">@lunar‍@mas.to</a>
 - [🗨️👤 SpaceHey](https://spacehey.com/rev_lunar "SpaceHey")
 - [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
