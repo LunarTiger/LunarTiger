@@ -1,5 +1,5 @@
 # 🙋 Hi, I’m Rev. Lunar
-🏳️‍🌈🏳️‍⚧️🏴‍☠️⚛️♿Ⓐ
+🏳️‍🌈🏳️‍⚧️🏴‍☠️ Ⓐ 🧘⚛️♿
 
 <table cellspacing="3" cellpadding="3" style="margin-left:auto; margin-right:auto;">
   <tbody>
@@ -40,7 +40,7 @@
 ## 📫 How to reach me
 - [🦣](https://mas.to/@lunar "Mastodon")<a href="https://mas.to/@lunar" target="_blank" title="Mastodon" rel="me">@lunar‍@mas.to</a>
 - [📷@lunar@gram.social](https://gram.social/lunar "Pixelfed")
-- [🗨️👤spacehey.com/rev_lunar](https://spacehey.com/rev_lunar "SpaceHey")
+- [🗨️Revolt](https://rvlt.gg/QwvVQrEA "Lunatics")
 - [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
 
 ## 🤘 Hail Satan!
