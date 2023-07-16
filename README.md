@@ -39,7 +39,7 @@
 
 ## 📫 How to reach me
 - [🦣](https://hell.social/@rev_lunar "hell.social")<a href="https://hell.social/@rev_lunar" target="_blank" title="Mastodon" rel="me">@rev_lunar‍@hell.social</a>
-- [🧱Rev. Lunar](https://sdq.st/lunar "Sidequest")
+- [🚀Rev. Lunar](https://sdq.st/lunar "Sidequest")
 - [🗨️Revolt](https://rvlt.gg/QwvVQrEA "Lunatics")
 - [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
 
