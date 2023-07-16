@@ -38,8 +38,8 @@
 </table>
 
 ## 📫 How to reach me
-- [🦣](https://mas.to/@lunar "Mastodon")<a href="https://mas.to/@lunar" target="_blank" title="Mastodon" rel="me">@lunar‍@mas.to</a>
-- [📷@lunar@gram.social](https://gram.social/lunar "Pixelfed")
+- [🦣](https://hell.social/@rev_lunar "hell.social")<a href="https://hell.social/@rev_lunar" target="_blank" title="Mastodon" rel="me">@rev_lunar‍@hell.social</a>
+- [🧱Rev. Lunar](https://sdq.st/lunar "Sidequest")
 - [🗨️Revolt](https://rvlt.gg/QwvVQrEA "Lunatics")
 - [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
 
