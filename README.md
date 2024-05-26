@@ -38,9 +38,14 @@
 </table>
 
 ## 📫 How to reach me
-- [🦣](https://hell.social/@rev_lunar "hell.social")<a href="https://hell.social/@rev_lunar" target="_blank" title="Mastodon" rel="me">@rev_lunar‍@hell.social</a>
+- [📇contact card](https://lunartiger.github.io/assets/Rev_Ryan_Fowler_Hughes.vcf "contact card")
+- [🦣](https://mas.to/@lunar "Mastodon")<a href="https://mas.to/@lunar" target="_blank" title="Mastodon" rel="me">@lunar‍@mas.to</a>
 - [🚀Rev. Lunar](https://sdq.st/lunar "Sidequest")
 - [🗨️Revolt](https://rvlt.gg/QwvVQrEA "Lunatics")
 - [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
+
+<form method="get" action="https://lunartiger.github.io/assets/Rev_Ryan_Fowler_Hughes.vcf">
+  <button class="person" type="submit">contact card</button>
+</form>
 
 ## 🤘 Hail Satan!
