@@ -44,8 +44,4 @@
 - [🗨️Revolt](https://rvlt.gg/QwvVQrEA "Lunatics")
 - [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
 
-<form method="get" action="https://lunartiger.github.io/assets/Rev_Ryan_Fowler_Hughes.vcf">
-  <button class="person" type="submit">contact card</button>
-</form>
-
 ## 🤘 Hail Satan!
