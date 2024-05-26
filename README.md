@@ -4,7 +4,7 @@
 <table cellspacing="3" cellpadding="3" style="margin-left:auto; margin-right:auto;">
   <tbody>
     <tr>
-      <th colspan="2">📋 General Info</td>
+      <th colspan="2">📋 General Info</th>
     </tr>
     <tr>
       <td>Pronouns</td>
@@ -41,7 +41,6 @@
 - [📇contact card](https://lunartiger.github.io/assets/Rev_Ryan_Fowler_Hughes.vcf "contact card")
 - [🦣](https://mas.to/@lunar "Mastodon")<a href="https://mas.to/@lunar" target="_blank" title="Mastodon" rel="me">@lunar‍@mas.to</a>
 - [🚀Rev. Lunar](https://sdq.st/lunar "Sidequest")
-- [🗨️Revolt](https://rvlt.gg/QwvVQrEA "Lunatics")
 - [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
 
 ## 🤘 Hail Satan!
