@@ -39,8 +39,8 @@
 
 ## 📫 How to reach me
 - [📇contact card](https://lunartiger.github.io/assets/Rev_Ryan_Fowler_Hughes.vcf "contact card")
+- [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
 - [🦣](https://mas.to/@lunar "Mastodon")<a href="https://mas.to/@lunar" target="_blank" title="Mastodon" rel="me">@lunar‍@mas.to</a>
 - [🚀Rev. Lunar](https://sdq.st/lunar "Sidequest")
-- [🔗sdq.st/l-c](https://sdq.st/l-c "Contact Me Website")
 
 ## 🤘 Hail Satan!
